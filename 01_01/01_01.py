@@ -5,3 +5,4 @@ if (len(wert) > 1):
     print("too big")
 else:
     print("yes")
+    
